@@ -2,7 +2,7 @@ import java.io.*;
 
 class MatrixRotate {
 
-	
+	//This program show rotation of Matrix
 	
 	static int[][] Rotate(int [][]arr,int row,int column,int flag)
 	{
